@@ -1,0 +1,2 @@
+# No third-party packages are required.
+# Only the Python standard library is used (socket, threading, json, struct, tkinter).
